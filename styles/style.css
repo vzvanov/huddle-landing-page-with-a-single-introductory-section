@@ -41,7 +41,7 @@ body {
   min-height: 100vh;
 
   background-color: var(--color-violet);
-  background-image: url(/images/bg-mobile.svg);
+  background-image: url(./images/bg-mobile.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -153,7 +153,7 @@ footer {
 
 @media (min-width:376px) {
   body {
-    background-image: url(/images/bg-desktop.svg);
+    background-image: url(./images/bg-desktop.svg);
   }
 
   .wrapper {
